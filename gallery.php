@@ -58,7 +58,7 @@ $pageTitle = "Gallery - The Royal Tourism";
                            <img src="images/galery/image-2.png" alt="gallery-img" />
                         </div>
                         <div class="tall">
-                           <img src="images/galery/image-2.png" alt="gallery-img" />
+                           <img src="images/galery/image-8.png" alt="gallery-img" />
                         </div>
                         <div>
                            <img src="images/galery/image-3.png" alt="gallery-img" />
@@ -73,7 +73,7 @@ $pageTitle = "Gallery - The Royal Tourism";
                            <img src="images/galery/image-6.png" alt="gallery-img" />
                         </div>
                         <div class="wide">
-                           <img src="images/galery/image-7.png" alt="gallery-img" />
+                           <img src="images/galery/image-12.png" alt="gallery-img" />
                         </div>
                         <div>
                            <img src="images/galery/image-8.png" alt="gallery-img" />
@@ -82,13 +82,13 @@ $pageTitle = "Gallery - The Royal Tourism";
                            <img src="images/galery/image-9.png" alt="gallery-img" />
                         </div>
                         <div class="wide">
-                           <img src="images/galery/image-10.png" alt="gallery-img" />
+                           <img src="images/galery/image-1.png" alt="gallery-img" />
                         </div>
                         <div>
                            <img src="images/galery/image-11.png" alt="gallery-img" />
                         </div>
                         <div class="wide">
-                           <img src="images/galery/image-12.png" alt="gallery-img" />
+                           <img src="images/galery/image-1.png" alt="gallery-img" />
                         </div>
                         <div class="big">
                            <img src="images/galery/image-13.png" alt="gallery-img" />
@@ -104,10 +104,25 @@ $pageTitle = "Gallery - The Royal Tourism";
                            <img src="images/galery/image-16.png" alt="" />
                         </div>
                         <div class="tall">
+                           <img src="images/galery/image-1.png" alt="gallery-img" />
+                        </div>
+                        <div>
+                           <img src="images/galery/image-18.png" alt="gallery-img" />
+                        </div>
+                        <div>
+                           <img src="images/galery/image-19.png" alt="gallery-img" />
+                        </div>
+                        <div class="wide">
+                           <img src="images/galery/image-20.png" alt="gallery-img" />
+                        </div>
+                        <div class="tall">
                            <img src="images/galery/image-17.png" alt="gallery-img" />
                         </div>
                         <div>
                            <img src="images/galery/image-18.png" alt="gallery-img" />
+                        </div>
+                        <div>
+                           <img src="images/galery/image-19.png" alt="gallery-img" />
                         </div>
                         <div>
                            <img src="images/galery/image-19.png" alt="gallery-img" />
@@ -118,9 +133,9 @@ $pageTitle = "Gallery - The Royal Tourism";
                      </div>
                   </div>
                   <div class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab" tabindex="0">
-                     <div class="grid-wrapper">
+                  <div class="grid-wrapper">
                         <div>
-                           <img src="images/galery/image-1.png" alt="gallery-img" />
+                           <img src="images/galery/image-5.png" alt="gallery-img" />
                         </div>
                         <div>
                            <img src="images/galery/image-4.png" alt="gallery-img" />
@@ -129,7 +144,7 @@ $pageTitle = "Gallery - The Royal Tourism";
                            <img src="images/galery/image-2.png" alt="gallery-img" />
                         </div>
                         <div class="tall">
-                           <img src="images/galery/image-2.png" alt="gallery-img" />
+                           <img src="images/galery/image-8.png" alt="gallery-img" />
                         </div>
                         <div>
                            <img src="images/galery/image-3.png" alt="gallery-img" />
@@ -144,7 +159,7 @@ $pageTitle = "Gallery - The Royal Tourism";
                            <img src="images/galery/image-6.png" alt="gallery-img" />
                         </div>
                         <div class="wide">
-                           <img src="images/galery/image-7.png" alt="gallery-img" />
+                           <img src="images/galery/image-12.png" alt="gallery-img" />
                         </div>
                         <div>
                            <img src="images/galery/image-8.png" alt="gallery-img" />
@@ -153,13 +168,13 @@ $pageTitle = "Gallery - The Royal Tourism";
                            <img src="images/galery/image-9.png" alt="gallery-img" />
                         </div>
                         <div class="wide">
-                           <img src="images/galery/image-10.png" alt="gallery-img" />
+                           <img src="images/galery/image-1.png" alt="gallery-img" />
                         </div>
                         <div>
                            <img src="images/galery/image-11.png" alt="gallery-img" />
                         </div>
                         <div class="wide">
-                           <img src="images/galery/image-12.png" alt="gallery-img" />
+                           <img src="images/galery/image-1.png" alt="gallery-img" />
                         </div>
                         <div class="big">
                            <img src="images/galery/image-13.png" alt="gallery-img" />
@@ -175,7 +190,7 @@ $pageTitle = "Gallery - The Royal Tourism";
                            <img src="images/galery/image-16.png" alt="" />
                         </div>
                         <div class="tall">
-                           <img src="images/galery/image-17.png" alt="gallery-img" />
+                           <img src="images/galery/image-1.png" alt="gallery-img" />
                         </div>
                         <div>
                            <img src="images/galery/image-18.png" alt="gallery-img" />
@@ -186,12 +201,27 @@ $pageTitle = "Gallery - The Royal Tourism";
                         <div class="wide">
                            <img src="images/galery/image-20.png" alt="gallery-img" />
                         </div>
+                        <div class="tall">
+                           <img src="images/galery/image-17.png" alt="gallery-img" />
+                        </div>
+                        <div>
+                           <img src="images/galery/image-18.png" alt="gallery-img" />
+                        </div>
+                        <div>
+                           <img src="images/galery/image-19.png" alt="gallery-img" />
+                        </div>
+                        <div>
+                           <img src="images/galery/image-19.png" alt="gallery-img" />
+                        </div>
+                        <div class="wide">
+                           <img src="images/galery/image-20.png" alt="gallery-img" />
+                        </div>
                      </div>
                   </div>
                   <div class="tab-pane fade" id="pills-contact" role="tabpanel" aria-labelledby="pills-contact-tab" tabindex="0">
-                     <div class="grid-wrapper">
+                  <div class="grid-wrapper">
                         <div>
-                           <img src="images/galery/image-7.png" alt="gallery-img" />
+                           <img src="images/galery/image-5.png" alt="gallery-img" />
                         </div>
                         <div>
                            <img src="images/galery/image-4.png" alt="gallery-img" />
@@ -200,7 +230,7 @@ $pageTitle = "Gallery - The Royal Tourism";
                            <img src="images/galery/image-2.png" alt="gallery-img" />
                         </div>
                         <div class="tall">
-                           <img src="images/galery/image-2.png" alt="gallery-img" />
+                           <img src="images/galery/image-8.png" alt="gallery-img" />
                         </div>
                         <div>
                            <img src="images/galery/image-3.png" alt="gallery-img" />
@@ -215,7 +245,7 @@ $pageTitle = "Gallery - The Royal Tourism";
                            <img src="images/galery/image-6.png" alt="gallery-img" />
                         </div>
                         <div class="wide">
-                           <img src="images/galery/image-7.png" alt="gallery-img" />
+                           <img src="images/galery/image-12.png" alt="gallery-img" />
                         </div>
                         <div>
                            <img src="images/galery/image-8.png" alt="gallery-img" />
@@ -224,13 +254,13 @@ $pageTitle = "Gallery - The Royal Tourism";
                            <img src="images/galery/image-9.png" alt="gallery-img" />
                         </div>
                         <div class="wide">
-                           <img src="images/galery/image-10.png" alt="gallery-img" />
+                           <img src="images/galery/image-1.png" alt="gallery-img" />
                         </div>
                         <div>
                            <img src="images/galery/image-11.png" alt="gallery-img" />
                         </div>
                         <div class="wide">
-                           <img src="images/galery/image-12.png" alt="gallery-img" />
+                           <img src="images/galery/image-1.png" alt="gallery-img" />
                         </div>
                         <div class="big">
                            <img src="images/galery/image-13.png" alt="gallery-img" />
@@ -246,10 +276,25 @@ $pageTitle = "Gallery - The Royal Tourism";
                            <img src="images/galery/image-16.png" alt="" />
                         </div>
                         <div class="tall">
+                           <img src="images/galery/image-1.png" alt="gallery-img" />
+                        </div>
+                        <div>
+                           <img src="images/galery/image-18.png" alt="gallery-img" />
+                        </div>
+                        <div>
+                           <img src="images/galery/image-19.png" alt="gallery-img" />
+                        </div>
+                        <div class="wide">
+                           <img src="images/galery/image-20.png" alt="gallery-img" />
+                        </div>
+                        <div class="tall">
                            <img src="images/galery/image-17.png" alt="gallery-img" />
                         </div>
                         <div>
                            <img src="images/galery/image-18.png" alt="gallery-img" />
+                        </div>
+                        <div>
+                           <img src="images/galery/image-19.png" alt="gallery-img" />
                         </div>
                         <div>
                            <img src="images/galery/image-19.png" alt="gallery-img" />
