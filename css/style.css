@@ -411,6 +411,8 @@ body.offcanvas-open {
 .prim-txt {color: var(--primery);}
 .yellow-txt {color: #FFD700 !important;}
 .sky-txt {color: #00FFFF !important;}
+.tacao-txt {color: #F1C27D !important;}
+
 
 /* text */
 .pacifico-font {font-family: "Pacifico", serif;font-weight: 400 !important;line-height: normal;}
@@ -1713,7 +1715,11 @@ li.StepProgress-item.active::after {
 .weekend-bg {background: url('../images/header-banner/weekend.jpg') center no-repeat;}
 .adventures .three-box {display: flex;align-items: center;gap: 1rem;background-color: var(--white);border-radius: 12px;box-shadow: 0px 4px 64px 0px #00000026;padding: 1rem;justify-content: center;margin-bottom: 1rem;margin-top: 1rem;}
 
+/* honeymoon */
+.honeymoon-bg {background: url('../images/header-banner/honeymoon.jpg') center no-repeat;}
 
+/* honeymoon */
+.honeymoon-loveimg {background: url('../images/honeymoon-trip-bg.jpg') center no-repeat;}
 
 /* ========================= 
     Responsive
@@ -1800,7 +1806,8 @@ li.StepProgress-item.active::after {
     .why_choose .right-side {margin-top: 2rem;}
     .main_menu .navbar-nav {gap: 1rem;}
     .main_menu .navbar-expand-lg .navbar-nav {flex-direction: row;}
-    
+    .packages-plan .duration {display: block;}
+    .packages-plan .view-more {margin-top: 10px;}
 }
 
 @media (min-width: 768px) {

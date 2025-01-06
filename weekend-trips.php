@@ -243,11 +243,3 @@ $pageTitle = "Corporate";
     <?php
 include('footer.php');
 ?>
-<script>
-    /* -- flatpickr -- */
-    $(".selector").flatpickr(
-        {
-            disableMobile: "true"
-        }
-    );
-</script>
