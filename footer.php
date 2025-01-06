@@ -158,6 +158,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <script src="js/bootstrap.bundle.min.js" type="text/javascript"></script>
     <script src="js/slick.js" type="text/javascript"></script>
     <script src="js/swiper-bundle.min.js" type="text/javascript"></script>
+    <script src="js/flatpickr.js" type="text/javascript"></script>
     <script src="js/custom.js" type="text/javascript"></script>
     
     <script>

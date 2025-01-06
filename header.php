@@ -13,6 +13,7 @@
     <link href="css/slick.css" rel="preload stylesheet" media="all" as="style" />
     <link href="css/all.min.css" rel="preload stylesheet" media="all" as="style" />
     <link href="css/swiper-bundle.min.css" rel="preload stylesheet" media="all" as="style" />
+    <link href="css/flatpickr.min.css" rel="preload stylesheet" media="all" as="style" />
     <link href="css/style.css" rel="preload stylesheet" media="all" as="style" />
 </head>
 
