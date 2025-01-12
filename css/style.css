@@ -1749,7 +1749,7 @@ li.StepProgress-item.active::after {
     .main_menu .navbar-nav .nav-item {border-bottom: 1px solid transparent;}
     .main_menu .navbar-nav .nav-item:hover .nav-link {color: #05073D;}
     .main_menu .navbar-nav .nav-item .nav-link.active {color: #05073D;border-bottom: 1px solid #05073D;}
-
+    .main_menu .navbar-nav .nav-item.dropdown .dropdown-menu.show {transform: translate(-40%,0 );}
     .main_footer .footer-cols .footer-menus {padding-left: 1.5rem;}
     .tabs-container .cds-nav-pills {border-bottom-left-radius:12px;border-top-left-radius:12px;border-width: 2px 2px 2px 0px;border-style: solid;border-color: #8697C380;}
     .tabs-container .cds-nav-pills .nav-item {padding: 0;margin: 0;}
